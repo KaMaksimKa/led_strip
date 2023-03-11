@@ -1,5 +1,6 @@
 #pragma once
 
+//Base class for other mods
 class Mode {
   public:
     Mode(CRGB *leds,int led_num){
